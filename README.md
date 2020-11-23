@@ -17,6 +17,7 @@ Lately I have been using my time for the most diverse readings, at my bedside yo
   <li>Friedrich Nietzsche - The Genealogy of Morals</li>
   <li>Yuval Harari - Sapiens: A Brief History of Humanity</li>
   <li>📫Clayborne Carson - Martin Luther King's autobiography</li>
+  <li>The 1992 Rage Against the Machine CD of the same name</li>
 </ul>
 <!--
 **dmourans/dmourans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
