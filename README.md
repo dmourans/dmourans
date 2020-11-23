@@ -12,7 +12,8 @@ Some of my interests for those interested:<br>
   <li>ASP</li>
   <li>🤔I love clean code</li>
 </ul><br>
-  Lately I have been using my time for the most diverse readings, at my bedside you will find:<br>
+
+Lately I have been using my time for the most diverse readings, at my bedside you will find:<br>
 <ul>
   <li>Friedrich Nietzsche - The Genealogy of Morals</li>
   <li>Yuval Harari - Sapiens: A Brief History of Humanity</li>
