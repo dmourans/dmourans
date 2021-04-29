@@ -7,8 +7,9 @@
 Some of my interests for those interested:<br>
 <ul>
   <li>C# and .Net MVC</li>
-  <li>Learning Kotlin and Java for Android</li>
-  <li>ASP</li>
+  <li>Java</li>
+  <li>Learning Kotlin</li>
+  <li>ASP Classic</li>
   <li>SQL and NoSQL</li>
 </ul><br>
 
@@ -17,7 +18,7 @@ Lately I have been using my time for the most diverse readings, at my bedside yo
   <li>Narrative of the Life of Frederick Douglass Illustrated</li>
   <li>Friedrich Nietzsche - The Genealogy of Morals</li>
   <li>Yuval Harari - Sapiens: A Brief History of Humanity</li>
-  <li>📫Clayborne Carson - Martin Luther King's autobiography</li>
+  <li>Clayborne Carson - Martin Luther King's autobiography</li>
   <li>The 1992 Rage Against the Machine CD of the same name</li>
   <li>Akira - 06 by Katsuhiro Otomo</li>
 </ul><br>
