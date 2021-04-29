@@ -9,7 +9,7 @@ Some of my interests for those interested:<br>
   <li>C# and .Net MVC</li>
   <li>Learning Kotlin and Java for Android</li>
   <li>ASP</li>
-  <li>🤔I love clean code</li>
+  <li>SQL and NoSQL</li>
 </ul><br>
 
 Lately I have been using my time for the most diverse readings, at my bedside you will find:<br>
