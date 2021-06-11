@@ -8,7 +8,7 @@ Some of my interests for those interested:<br>
 <ul>
   <li>C# and .Net MVC</li>
   <li>Java</li>
-  <li>Learning Kotlin</li>
+  <li>Android Kotlin</li>
   <li>ASP Classic</li>
   <li>SQL and NoSQL</li>
 </ul><br>
