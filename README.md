@@ -6,10 +6,9 @@
 💬 I am a guy in love with life and good reflections.<br>
 Some of my interests for those interested:<br>
 <ul>
-  <li>C# and .Net MVC</li>
-  <li>Java</li>
-  <li>Android Kotlin</li>
   <li>ASP Classic</li>
+  <li>C# and .Net MVC</li>
+  <li>Android Kotlin</li>
   <li>SQL and NoSQL</li>
 </ul><br>
 
