@@ -18,8 +18,7 @@ Lately I have been using my time for the most diverse readings, at my bedside yo
   <li>Escravidão - Volume 1 Laurentino Gomes</li>
   <li>Yuval Harari - Sapiens: A Brief History of Humanity</li>
   <li>Clayborne Carson - Martin Luther King's autobiography</li>
-  <li>💬 The 1992 Rage Against the Machine CD of the same name</li>
-  <li>⚡ Akira - 06 by Katsuhiro Otomo</li>
+  <li>💬 The Facção Central CD - Direto do Campo de Extermínio Albun </li>
 </ul><br>
 🤔 Tudo que o mundo precisa são exemplos, não opiniões.
 
