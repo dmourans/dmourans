@@ -22,6 +22,7 @@ Lately I have been using my time for the most diverse readings, at my bedside yo
 </ul><br>
 🤔 Tudo que o mundo precisa são exemplos, não opiniões.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmourans)](https://git.io/streak-stats)
 
 <!--
 **dmourans/dmourans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
