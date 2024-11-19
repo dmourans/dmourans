@@ -6,10 +6,10 @@
 💬 I am a guy in love with life and good reflections.<br>
 Some of my interests for those interested:<br>
 <ul>
-  <li>ASP Classic</li>
+  <li>SQL Server</li>
   <li>C# and .Net MVC</li>
-  <li>Android Kotlin</li>
-  <li>SQL and NoSQL</li>
+  <li>Data Engineer</li>
+  <li>DBAL</li>
 </ul><br>
 
 Lately I have been using my time for the most diverse readings, at my bedside you will find:<br>
