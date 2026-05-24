@@ -32,6 +32,7 @@ Ultimamente tenho dedicado meu tempo às mais diversas leituras e sons:
 - 📖 Sapiens: Uma Breve História da Humanidade (Yuval Harari)
 - 📖 A Autobiografia de Martin Luther King (Clayborne Carson)
 - 🎧 Facção Central - Direto do Campo de Extermínio
+- 🎧 Lamb of God - Omerta
 
 > *"Tudo que o mundo precisa são exemplos, não opiniões."* 🤔
 
