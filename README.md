@@ -1,7 +1,6 @@
 ### Olá 👋, Bem-vindo ao meu GitHub!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deividmoura/)](https://www.linkedin.com/in/deividmoura/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deividmoura)](https://twitter.com/deividmoura)
 
 💬 Sou apaixonado pela vida e por boas reflexões. Atualmente, atuo na liderança e desenvolvimento de projetos de software, integrando dados e automatizando soluções.
 
